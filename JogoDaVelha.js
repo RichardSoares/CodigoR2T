@@ -45,11 +45,11 @@ function play(x, y, jogador){
                         cont = 0;
                         console.log(turno + " Venceu !");
                     }else if(cont == 9){
-                        console.log("Empate")
+                        console.log("Empate!")
                     }
                 }
             }else{
-                console.log("Coordenada Invalida");
+                console.log("Coordenada Invalida!");
             }
         }
     }
